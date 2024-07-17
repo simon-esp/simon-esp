@@ -1,8 +1,8 @@
-Im Simon
-I love mountain biking
-I also love coding
-But most of all i love God
-Jesus is king!
+Im Simon <br>
+I love mountain biking <br>
+I also love coding <br>
+But most of all i love God <br>
+Jesus is king! <br>
 
 <!---
 simon-esp/simon-esp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
