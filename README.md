@@ -3,7 +3,7 @@ I am Simon, a mountainbiker and programming enthusiast from Norway <br>
 ### My preferences: <br>
 [![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev) <br>
 ### Projects: <br>
-* Insider (name will probably be changed) <br>
+* Chainline <br>
 * RODSON (made in scratch, yet to recieve a python package) <br>
 * Ryde Script Language (never got this done, looking to revisit) <br>
 ### Bike specs (unrelated i just love bikes lol): <br>
