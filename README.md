@@ -3,7 +3,7 @@ I am Simon, a mountainbiker and programming enthusiast from Norway <br>
 ### My preferences: <br>
 [![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev) <br>
 ### Projects: <br>
-* [Chainline](https://github.com/simon-esp/ChainLine) <br>
+* [Chainlink](https://github.com/simon-esp/ChainLine) <br>
 * [RODSON](https://github.com/simon-esp/RODSON) (made in scratch, yet to recieve a python package) <br>
 * Ryde Script Language (never got this done, looking to revisit) <br>
 ### Bike specs (unrelated i just love bikes lol): <br>
