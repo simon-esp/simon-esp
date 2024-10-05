@@ -15,3 +15,6 @@ Mods:<br>
 * pilgrips :O<br>
 * flat pedals (i dont remember the brand name)<br>
 * rear sram brakes (this NEEDS to be changed)<br>
+* some random ass front brake that is good for some reason<br>
+* x fusion shock that makes a breathing sound and will 100% explode soon<br>
+* rockshox 35
