@@ -1,6 +1,6 @@
 # About me <br>
 I am Simon, a mountainbiker and programming enthusiast from Norway <br>
-### My preferences: <br>
+### some icons i found online that i like: <br>
 [![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev) <br>
 ### Projects: <br>
 * [Chainlink](https://github.com/simon-esp/ChainLine) <br>
